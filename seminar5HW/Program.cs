@@ -1,6 +1,6 @@
 ﻿// Домашняя работа 5.
 
-
+/*
 int[] CreateRandomArray(int size, int minValue, int maxValue)
  {
      int[] array = new int[size];
@@ -19,7 +19,7 @@ int[] CreateRandomArray(int size, int minValue, int maxValue)
      }
      Console.WriteLine();
  }
-
+*/
  // Задача1. Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 /*
 int CountOfEvenNum(int[] array)
@@ -70,6 +70,7 @@ int CountOfEvenNum(int[] array)
 
  // Задача 3. Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 
+/*
 double[] CreateRandomDoubleArray(int size, int minValue, int maxValue)
  {
      double[] array = new double[size];
@@ -110,7 +111,7 @@ double[] myArray = CreateRandomDoubleArray(size, 0, 100);
 ShowArray(myArray);
 Console.WriteLine();
 DifMinMax(myArray);
- 
+ */
 
  
 
